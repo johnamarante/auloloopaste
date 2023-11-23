@@ -1,11 +1,6 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "huppolito the shit stirrer"
-    }
-  ],
-  "profile": {
-    "name": "johnamarante"
+[
+  {
+    "id": 1,
+    "title": "huppolito the shit stirrer"
   }
-}
+]
